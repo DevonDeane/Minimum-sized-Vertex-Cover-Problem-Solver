@@ -1,0 +1,2 @@
+# Minimum-sized-Vertex-Cover-Problem-Solver
+Solved the optimization problem of determining the minimum-sized vertex cover for a given graph. This is done by implementing a shortest path finding algorithm and a Satisfiability Solver and communicating between the two systems via multi-threading. The system was able to produce a minimum sized vertex cover in polynomial time. C++, Python, MiniSat SAT Solver
