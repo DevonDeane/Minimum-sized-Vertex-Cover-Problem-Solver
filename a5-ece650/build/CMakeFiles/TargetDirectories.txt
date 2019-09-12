@@ -1,0 +1,17 @@
+/mnt/c/Users/Devon/Desktop/ECE 650/Assignments/Assignment 4/a5-ece650/build/CMakeFiles/install/strip.dir
+/mnt/c/Users/Devon/Desktop/ECE 650/Assignments/Assignment 4/a5-ece650/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Devon/Desktop/ECE 650/Assignments/Assignment 4/a5-ece650/build/CMakeFiles/a4-ece650.dir
+/mnt/c/Users/Devon/Desktop/ECE 650/Assignments/Assignment 4/a5-ece650/build/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/Devon/Desktop/ECE 650/Assignments/Assignment 4/a5-ece650/build/CMakeFiles/list_install_components.dir
+/mnt/c/Users/Devon/Desktop/ECE 650/Assignments/Assignment 4/a5-ece650/build/CMakeFiles/install/local.dir
+/mnt/c/Users/Devon/Desktop/ECE 650/Assignments/Assignment 4/a5-ece650/build/CMakeFiles/install.dir
+/mnt/c/Users/Devon/Desktop/ECE 650/Assignments/Assignment 4/a5-ece650/build/minisat/CMakeFiles/install.dir
+/mnt/c/Users/Devon/Desktop/ECE 650/Assignments/Assignment 4/a5-ece650/build/minisat/CMakeFiles/list_install_components.dir
+/mnt/c/Users/Devon/Desktop/ECE 650/Assignments/Assignment 4/a5-ece650/build/minisat/CMakeFiles/minisat-lib-shared.dir
+/mnt/c/Users/Devon/Desktop/ECE 650/Assignments/Assignment 4/a5-ece650/build/minisat/CMakeFiles/install/strip.dir
+/mnt/c/Users/Devon/Desktop/ECE 650/Assignments/Assignment 4/a5-ece650/build/minisat/CMakeFiles/minisat-lib-static.dir
+/mnt/c/Users/Devon/Desktop/ECE 650/Assignments/Assignment 4/a5-ece650/build/minisat/CMakeFiles/minisat_core.dir
+/mnt/c/Users/Devon/Desktop/ECE 650/Assignments/Assignment 4/a5-ece650/build/minisat/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/Devon/Desktop/ECE 650/Assignments/Assignment 4/a5-ece650/build/minisat/CMakeFiles/install/local.dir
+/mnt/c/Users/Devon/Desktop/ECE 650/Assignments/Assignment 4/a5-ece650/build/minisat/CMakeFiles/minisat_simp.dir
+/mnt/c/Users/Devon/Desktop/ECE 650/Assignments/Assignment 4/a5-ece650/build/minisat/CMakeFiles/edit_cache.dir
